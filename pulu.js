@@ -30,8 +30,3 @@ sr.reveal(".social", {
     interval: 400,
     delay: 400
 });
-sr.reveal(".flex", {
-
-    interval: 400,
-    delay: 400
-});
