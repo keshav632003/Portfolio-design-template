@@ -428,8 +428,6 @@ button:hover {
 .direct{
     display: flex;
     padding: 30px;
-    justify-content: space-evenly;
-    margin: 2rem;
 }
 footer {
     display: block;
